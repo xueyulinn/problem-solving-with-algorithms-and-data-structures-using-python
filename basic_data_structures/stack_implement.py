@@ -1,4 +1,5 @@
 class Stack:
+    ''' Stack ADT implementation by list '''
     def __init__(self) -> None:
         self.items = []
 
